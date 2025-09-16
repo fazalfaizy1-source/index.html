@@ -1,1 +1,53 @@
-# index.html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Laundry Mart</title>
+    </head>
+    <Body>
+        <h1>Welcome to Laundry Wallah / Laundry Mart</h1>
+       <p> Welcome to Laundry Wallah / Laundry Mart,your one-stop solution for all your Laundry needs,
+        our dedicated team ensures top-notch service,we providing efficient washing, drying,
+        and ironing services tailored to meet the needs of busy individuals and families,. With advanced machines
+        and eco-friendly detergents, these shops handle everything from everyday wear to delicate fabrics,
+        offering both drop-off and pick-up options for maximum convenience.</p> 
+
+<img src="https://tse3.mm.bing.net/th/id/OIP.qbzYukUuN9F08_XAartlbgHaFj?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" height="300" width="300">
+<h2>Our Services</h2>
+<ul>
+    <li>Washing and drying</li>
+    <li>Ironing and Folding</li>
+    <li>Dry cleening</li>
+    <li>Stain removal</li>
+    <li>Express service</li>
+    <li>Special garment service</li>
+    <li>And more</li>
+</ul>
+<h3>Price List</h3>
+        <table border="2">
+            <tbody>
+            <tr>
+                <td>Service</td>
+                <td>Price</td>
+            </tr>
+            </tbody>
+            <tr>
+            <td>Washing and drying</td>
+            <td>250 Rs</td> 
+            </tr>
+            <tr>
+                <td>Ironing and Folding</td>
+                <td>100 Rs</td>
+            </tr>       
+        </table>
+        <h3>Book Now</h3>
+        <lable for="Name">Name:</lable>
+        <input type="text" id="Name" Name="Name">
+        <label for="Email">Email:</label>
+        <input type="text" id="Email" Email="Email">
+        <label for="Phone">Phone:</label> 
+        <input type="text" id="Phone" Phone="Phone">
+        <button>Submit</button>
+        <br></br>
+        <p6>Contact us at: info@laundrymart.com</p6>
+       </Body> 
+</html>
